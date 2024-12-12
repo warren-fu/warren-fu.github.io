@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - warren-fu
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - warren-fu/capitol-gains
+  - warren-fu/YoutubeDataConvert
+  - warren-fu/redditbot
+  - ryanoros/Recitation-015-Team-03-Neighborly
