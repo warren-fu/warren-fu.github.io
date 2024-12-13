@@ -8,18 +8,16 @@ profile:
   align: right
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: haii
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
+Hey, thanks for visiting my website!
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Warren, a Junior pursuing a Bachelors of Science in Computer Science at the University of Colorado, Boulder. I'm also working as a Research Assistant under [Professor Gowtham Kaki](https://gowthamk.github.io/) in the [CU PLV lab](https://plv.colorado.edu/) - A lab which focuses on "Expressivity, Performance, Dependability, and Understanding of Computational Systems". 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I've completed all my major coursework with a 4.0 GPA, gaining a solid foundation in algorithms, AI, machine learning, and software engineering.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of school, I'm also passionate about creating innovative side projects, from tools like Capitol Gains for tracking house members' (Pelosi's) stock trades and an AI-powered stock charting app, to an app which converts data into watchable and redownloadable youtube videos, exploiting the lack of a file upload limit on YouTube. I enjoy blending tech with finance, crafting solutions for investors, and learning through my attempts to build anything I'm interested in. Outside of coding, I also enjoy building things with my hands, weightlifting, and playing competitive games such as League, Valorant, and Counter Strike.
